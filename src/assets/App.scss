@@ -1,0 +1,9 @@
+.App {
+  margin-top: 70px;
+  margin-bottom: 60px;
+
+  :focus {
+    outline-style: dashed;
+    outline-color: rgba(238,174,202,1);
+  }
+}
